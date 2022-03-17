@@ -18,3 +18,6 @@ Python Program to implement Virtual Paint using Media Pipe
 <h1>WHAT'S INCLUDED IN THIS REPOSITORY ?</h1>
 1) <b>handTrackingModule.py</b> <p>This module is used for the detection of hands, to identify their landmarks and to detect their positions.</p>
 2) <b>Virtual_Paint.py</b> <p>This is the main module used for real time implementation of virtual paint, utilizing handTrackingModule.py to detect the position of index  and middle finger for drawing and selecting the colors.</p>
+
+<h1>VIDEO DEMO:</h1>
+https://drive.google.com/file/d/1SSA9DfmVdSv6RM16DYWbI_u3bsfyTgQ-/view?usp=sharing
